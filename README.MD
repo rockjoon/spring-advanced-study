@@ -25,9 +25,9 @@
 ## 스케쥴
 |week| 내용                                | 발표자료
 :---: |:----------------------------------| :---:
-1주차 | 섹션 3. 쓰레드 로컬                      | [박철현]()
-1주차 | 섹션 4. 템플릿 메서드 패턴과 콜백 패턴           | [최혜미]()
-1주차 | 섹션 4. 콜백 패턴                       | [김태윤]()
+1주차 | 섹션 3. 쓰레드 로컬                      | [박철현](https://github.com/rockjoon/spring-advanced-study/blob/main/cheorhyeon/%5B%EB%B0%95%EC%B2%A0%ED%98%84%5D%20%EC%84%B9%EC%85%98%203.%20%EC%93%B0%EB%A0%88%EB%93%9C%20%EB%A1%9C%EC%BB%AC.md)
+1주차 | 섹션 4. 템플릿 메서드 패턴과 콜백 패턴           | [최혜미](https://github.com/rockjoon/spring-advanced-study/blob/main/hym/%5B%EC%B5%9C%ED%98%9C%EB%AF%B8%5D%20%EC%84%B9%EC%85%98%204.%20%ED%85%9C%ED%94%8C%EB%A6%BF%20%EB%A9%94%EC%86%8C%EB%93%9C%20%ED%8C%A8%ED%84%B4.md)
+1주차 | 섹션 4. 콜백 패턴                       | [김태윤](https://github.com/rockjoon/spring-advanced-study/blob/main/kimtaeyoon/%EC%84%B9%EC%85%98%204.%20%EC%BD%9C%EB%B0%B1%20%ED%8C%A8%ED%84%B4.MD)
 2주차 | 섹션 5. 프록시 패턴                      | [미정]()
 2주차 | 섹션 5. 데코레이터 패턴                    | [미정]()
 3주차 | 섹션 6. 동적 프록시 기술                   | [미정]()
